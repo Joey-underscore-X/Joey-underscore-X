@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML and CSS.
 - 💞️ I’m looking to collaborate on projects that will help me develop my skills in web development and software design. I’m eager to connect with other developers and learn from collaborative experiences.
 - 📫 How to reach me joey.keffer@outlook.com
-- 😄 Pronouns: 
+- 😄 Pronouns:  
 - ⚡ Fun fact: I've watched every UFC since UFC 1.
 
 <!---
